@@ -11,6 +11,6 @@ public class HomeController {
 
     @GetMapping
     public String Home () {
-        return "Hola soy default: Ya estoy sobre Docker... y en AWS";
+        return "Hola soy default: Ya estoy sobre jenkins";
     }
 }
